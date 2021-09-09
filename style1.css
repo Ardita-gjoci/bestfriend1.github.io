@@ -1,0 +1,27 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.imgg-1 {
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: -3.3%;
+    left: -3%;
+}
+.titulli-11 {
+    font-size: 90px;
+    font-weight: 700;
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    top: -25px;
+    right: 40%;
+    color: rgb(6, 87, 6);
+    text-shadow: 2px 2px rgb(4, 231, 4);
+}
+.titulli-11:hover {
+    transition: 1.5s;
+    color: rgb(9, 172, 9);
+    text-shadow: 2px 2px rgb(19, 251, 19);
+}

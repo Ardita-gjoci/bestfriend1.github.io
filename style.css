@@ -1,0 +1,160 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+   
+}
+footer {
+    position: absolute;
+    right: 27%;
+    top: 120%;
+}
+body {
+    background-image: url(Background.png);
+    background-repeat: no-repeat;
+   
+    
+    
+}
+.p-1 {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    float: right;
+}
+
+    
+.p-1:hover {
+    background-color: #3e8e41
+ 
+}
+.p-1:active {background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);}
+
+
+
+.img-1 {
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: -3.3%;
+    left: -3%;
+}
+.directory1 {
+    background-color: rgba(128, 128, 128, 0.377);
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 90%;   
+}
+.p-p {
+    font-size: 27px;
+    word-spacing: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    padding: 15px 5px 15px 5px;
+}
+
+.incs1 {
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Anton', sans-serif;
+}
+.incs3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    list-style-type: none;
+    padding-top: 35px;
+}
+.allincs {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.171);
+    border-radius: 20px;
+    padding: 10px 5px 10px 5px;
+}
+.foot1 a {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+.f-1 {
+    position: absolute;
+    top: 220%;
+    left: 1%;
+}
+.f-2 {
+    top: 220%;
+    left: 20%;
+    position: absolute;
+}
+.f-3 {
+    top: 220%;
+    left: 47%;
+    position: absolute;
+}
+.f-4 {
+    top: 220%;
+    left: 75%;
+    position: absolute;
+}
+.f-5 {
+    top: 220%;
+    left: 95%;
+    position: absolute;
+}
+.f-1:hover {
+  text-decoration:underline;
+  transition: 1s;
+}
+.f-2:hover {
+    transition: 1s;
+    text-decoration: underline;
+}
+.f-3:hover {
+    transition: 1s;
+    text-decoration: underline;
+}
+.f-4:hover {
+    transition: 1s;
+    text-decoration: underline;
+}
+.f-5:hover {
+    text-decoration: underline;
+    transition: 1s;
+}
+.titulli-1 {
+    font-size: 90px;
+    font-weight: 700;
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    top: -25px;
+    right: 40%;
+    color: rgb(6, 87, 6);
+    text-shadow: 2px 2px rgb(4, 231, 4);
+}
+.titulli-1:hover {
+    transition: 1.5s;
+    color: rgb(9, 172, 9);
+    text-shadow: 2px 2px rgb(19, 251, 19);
+}
+.img-111 {
+    position: absolute;
+    top: 150%;
+    left:19%;
+    width: 60%;
+    height: 70%;
+}
